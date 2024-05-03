@@ -1,1 +1,1 @@
-Live on::https://github.com/SadquaNawab/VideoCall
+Live on:: https://sadquanawab.github.io/VideoCall/
